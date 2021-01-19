@@ -3,7 +3,7 @@
 
 
 
-! [EXO] (https://github.com/loucksjohn/machine-learning/blob/main/exoplanets.jpg?raw=true)
+![EXO](https://github.com/loucksjohn/machine-learning/blob/main/exoplanets.jpg?raw=true)
 
 ## DESCRIPTION
 
